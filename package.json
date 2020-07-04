@@ -1,0 +1,27 @@
+{
+  "name": "nickname-discord-bot",
+  "version": "1.0.0",
+  "description": "Nickname generator bot for discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewhan90/nickname-discord-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Andrew Y Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewhan90/nickname-discord-bot/issues"
+  },
+  "homepage": "https://github.com/drewhan90/nickname-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.4.0"
+  }
+}
